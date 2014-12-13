@@ -22,7 +22,7 @@ public class Panel extends JPanel {
 	@Override
 	protected void paintComponent(Graphics g) {
 		super.paintComponent(g);
-		g.drawString("Hello from Eclipse!", 60, 100);
+		g.drawString("Hello from Eclipse and EGit!", 60, 100);
 	}
 
 }
